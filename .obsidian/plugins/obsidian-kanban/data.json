@@ -1,0 +1,29 @@
+{
+  "hide-date-in-title": true,
+  "date-colors": [
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isAfter": true,
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(96, 224, 59, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isToday": true,
+      "backgroundColor": "rgba(240, 166, 62, 1)",
+      "color": "rgba(255, 255, 255, 1)"
+    },
+    {
+      "distance": 1,
+      "unit": "days",
+      "direction": "after",
+      "isBefore": true,
+      "backgroundColor": "rgba(255, 0, 0, 1)",
+      "color": "rgba(255, 255, 255, 1)"
+    }
+  ]
+}

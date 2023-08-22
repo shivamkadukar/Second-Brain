@@ -4,22 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "4c8937dab92b3ce5",
+        "id": "bf9f7b4849cb1fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "c9244ee401a0e59d",
+            "id": "57dc33a6f7aba2f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Reading List.md",
+                "file": "Projects/AWS SAA/IAM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "499daea3711cedcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/AWS SAA/AWS EC2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41d9c54d320f970a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/AWS SAA/Elastic Network Interface (ENI).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "767e8e940ae7ffa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/AWS SAA/EC2 Hibernate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44e13cb0615b8743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/AWS SAA/EC2 Storage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63a2a185713601a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/AWS SAA/AWS EC2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Reading List.md",
+                "file": "Projects/AWS SAA/AWS EC2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book Reading List.md",
+                "file": "Projects/AWS SAA/AWS EC2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Reading List.md"
+                "file": "Projects/AWS SAA/AWS EC2.md"
               }
             }
           },
@@ -156,53 +217,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c9244ee401a0e59d",
+  "active": "63a2a185713601a0",
   "lastOpenFiles": [
-    "Learning Management.md",
+    "Projects/AWS SAA/EC2 Storage.md",
+    "Projects/AWS SAA/AWS Storage - EFS.md",
+    "Projects/AWS SAA/AWS EC2.md",
+    "Attachments/efs multi attach.png",
+    "Attachments/ebs migration.png",
+    "Attachments/Pasted image 20230822074504.png",
+    "Attachments/efs storgage classes.png",
+    "Attachments/aws efs.png",
+    "Attachments/ebs multi attach.png",
+    "Projects/AWS SAA/AWS Serverless.md",
+    "Projects/AWS SAA/AWS Security Groups.md",
+    "Projects/AWS SAA/AWS Lambda.md",
+    "Projects/AWS SAA/AWS EC2 Placement Groups.md",
+    "Attachments/ami.png",
+    "Attachments/ebs snapshots.png",
+    "Projects/AWS SAA/EC2 Hibernate.md",
+    "Projects/AWS SAA/Elastic Network Interface (ENI).md",
+    "Attachments/ec2 hibernate.png",
+    "Attachments/eni.png",
+    "Projects/AWS SAA/IAM.md",
     "Book Reading List.md",
-    "Archives/Building a Second Brain/Building Second Brain - Summary.md",
-    "Archives/Building a Second Brain/Organize - Save for Actionability.md",
-    "Archives/Building a Second Brain/Untitled.md",
-    "Archives/Building a Second Brain/Capture - Keep what Resonates.md",
-    "Archives/Building a Second Brain/Second Brain Capabilities.md",
-    "Archives/Building a Second Brain/Second Brain Progress Stages.md",
+    "AWS Learning Management.md",
+    "Projects/AWS SAA/AWS Storage - SnowFamily.md",
+    "Archives/Building a Second Brain/Distill - Find the Essence.md",
+    "Archives/Building a Second Brain/Express -  Show Your Work.md",
+    "Projects Management.md",
     "Archives/Building a Second Brain/The CODE Method.md",
-    "Projects/Scrum/Cone of Uncertainty.md",
-    "Projects/Scrum/Agile.md",
-    "Projects/Scrum/Scrum Master.md",
-    "Resources/Algorithms/Sorting Algorithms.md",
-    "Resources/Algorithms/Searching Algorithms.md",
-    "Projects/Scripting/Bash Scripting.md",
-    "Projects/Version Control/Pull request Best Practices.md",
-    "Resources/Algorithms",
-    "Projects/Version Control/Commits Best Practices.md",
+    "Archives/Building a Second Brain/Second Brain Capabilities.md",
+    "Archives/Building a Second Brain/Untitled.md",
+    "Resources/Notes Taking/Stigmergy.md",
     "Projects/Version Control/Branch naming conventions.md",
-    "Mesc/Semantic Versioning.md",
     "Projects/Version Control/Version Control.md",
-    "Projects/Version Control/GIT commands.md",
-    "Projects/Scrum/Scrum.md",
-    "Projects/Scrum/The Sprint.md",
-    "Projects/Scrum/Sprint Review.md",
-    "Projects/Scrum/Sprint Retrospective.md",
-    "Projects/Scrum/Sprint Planning.md",
-    "Attachments/aws transfer family.png",
-    "Attachments/global acclerator.png",
-    "Attachments/cloufront global users.png",
-    "Attachments/cloudront cache invalidation.png",
-    "Attachments/cloufront ec2 alb.png",
-    "Attachments/cloudront s3 as origin.png",
-    "Attachments/aws cloudfront.png",
+    "Projects/Version Control/Pull request Best Practices.md",
+    "Projects/Version Control/Commits Best Practices.md",
+    "Archives/Building a Second Brain/Capture-Keep what Resonates.md",
+    "Resources/Notes Taking",
+    "Resources/Algorithms",
     "Archives/Building a Second Brain",
     "Archives",
     "Projects/Golang Dev",
-    "Attachments/route 53 monitor endpoints.png",
-    "Attachments/route 53 health checks.png",
-    "Attachments/route 53 latency based.png",
     "Projects/AWS SAA",
     "Resources/Books",
     "Resources",
     "Obsidian-Vault",
-    "Resources/Operating Systems",
-    "Attachments"
+    "Resources/Operating Systems"
   ]
 }

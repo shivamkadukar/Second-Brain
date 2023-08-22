@@ -11,6 +11,7 @@ __Psychology__
 
 - [ ] The 48 laws of Power
 - [ ] The psychology of Persuasion
+- [ ] The Winner Effect - Ian Robertson
 
 __Personal Finance__
 

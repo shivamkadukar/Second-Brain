@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Concept Revision @{2023-08-25}
 - [ ] Practice Tests @{2023-09-01}
 - [ ] Exam @{2023-09-02}
 
 
 ## In progress
 
+- [ ] Concept Revision @{2023-08-25}
 
 
 ## Completed
@@ -45,6 +45,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"basic","tag-colors":[],"date-colors":[{"isToday":false,"distance":1,"unit":"days","direction":"after"}]}
 ```
 %%

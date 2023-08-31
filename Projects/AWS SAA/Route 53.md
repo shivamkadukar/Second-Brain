@@ -63,6 +63,9 @@ Each record contains
 		- can be associate with health checks (has failover capability)
 		![[route 53 latency based.png]]
 
+	- __Geolocation__
+	- __Multi Value Answer__
+	- __Geoproximity (using Route 53 Traffic Flow feature)__
 ### Route 53 - Health Checks
 - HTTP health checks are __only for public resources__.
 - Health check => automated DNS failover:
@@ -70,7 +73,8 @@ Each record contains
 	- health checks that monitor other health checks (calculated health checks).
 	- health checks that monitor cloudwatch alarms- e.g. throttles of dynamodb, alarms on RDS, (helpful for private resources).
 - health checks are integrated with CW metrics.
-![[route 53 health checks.png|350]]
+	![[route 53 health checks.png|300]]
+	
 - __Health checks - monitor endpoint__
 	- About 15 global health checkers will check the endpoint health 
 		-  Healthy/Unhealthy Threshold – 3 (default)
@@ -82,5 +86,9 @@ Each record contains
 	-  Health Checks can be setup to pass / fail based on the text in the first 5120 bytes of the response
 	-  Configure you router/firewall to allow incoming requests from Route 53 Health Checkers
 		![[route 53 monitor endpoints.png|350]]
-
-- Health checks - 
+- __Calculated Health Checks__ -
+	- Combine the results of multiple Health Checks into a single Health Check 
+	- You can use OR, AND, or NOT 
+	- Can monitor up to 256 Child Health Checks 
+	- Specify how many of the health checks need to pass to make the parent pass 
+	- Usage: perform maintenance to your website without causing all health checks to fail

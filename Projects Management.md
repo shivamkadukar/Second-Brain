@@ -8,7 +8,7 @@ kanban-plugin: basic
 
 - [ ] AWS Developer Associate Certification @{2023-11-04}
 - [ ] AWS Devops Professional Certification @{2024-01-06}
-- [ ] Apache Spark Developer Associate Certification
+- [ ] Databricks Apache Spark Developer Associate Certification
 - [ ] Terraform Developer Associate Certification
 
 

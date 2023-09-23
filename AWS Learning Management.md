@@ -6,18 +6,18 @@ kanban-plugin: basic
 
 ## To Do
 
-- [ ] Practice Tests @{2023-09-01}
-- [ ] Exam @{2023-09-02}
 
 
 ## In progress
 
-- [ ] Concept Revision @{2023-08-25}
 
 
 ## Completed
 
 **Complete**
+- [x] Exam @{2023-09-02}
+- [x] Practice Tests @{2023-09-01}
+- [x] Concept Revision @{2023-08-25}
 - [x] Other Services @{2023-08-21}
 - [x] Migration, Disaster Recovery @{2023-08-20}
 - [x] VPC @{2023-08-19}

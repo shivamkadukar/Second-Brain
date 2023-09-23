@@ -2,8 +2,8 @@
 __Productivity__
 
 - [x] Atomic Habits - James Clear
-- [/] Building a Second Brain - Thiago Forte
-- [ ] Deep Work - Cal Newport
+- [x] Building a Second Brain - Thiago Forte
+- [/] Deep Work - Cal Newport
 - [ ] Make Time - Jake Knapp
 
 
@@ -23,4 +23,8 @@ __Relationship__
 
 - [ ] Models - Mark Manson
 - [ ] How to not die alone - Logan Ury
+
+__Philosophy__
+
+- [ ] Meditations - Marcus Aerilius
 

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bcdda9b1fa1563f2",
+        "id": "11dfe048d2524fee",
         "type": "tabs",
         "children": [
           {
-            "id": "96cd8efda9f22b37",
+            "id": "c7731a516fb73bbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Reading List.md",
+                "file": "Projects/Version Control/Branch naming conventions.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "st1",
+                "query": "artifacts",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Reading List.md",
+                "file": "Projects/Version Control/Branch naming conventions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Book Reading List.md",
+                "file": "Projects/Version Control/Branch naming conventions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Reading List.md"
+                "file": "Projects/Version Control/Branch naming conventions.md"
               }
             }
           },
@@ -166,34 +166,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96cd8efda9f22b37",
+  "active": "c7731a516fb73bbe",
   "lastOpenFiles": [
-    "Projects Management.md",
-    "Projects/Apache Spark",
-    "AWS Learning Management.md",
-    "Book Reading List.md",
     "Projects/Version Control/Commits Best Practices.md",
-    "Resources/Scrum/Product Backlog.md",
-    "Resources/Scrum/Increment.md",
-    "Resources/Scrum/Sprint Backlog.md",
-    "Projects/AWS SAA/EC2 Storage.md",
-    "Projects/AWS SAA/AWS EC2.md",
-    "Projects/AWS SAA/AWS Auto-Scaling Group.md",
-    "Projects/AWS SAA/Route 53.md",
-    "Projects/AWS SAA/AWS EC2 Placement Groups.md",
+    "Archives/Deep Work/Rule 3- Quit Social Media.md",
+    "Archives/Deep Work/Rule 4- Drain the Shallows.md",
+    "Archives/Deep Work/Deep Work - Introduction.md",
+    "Archives/Deep Work/Rule 2- Embrace Boredom.md",
+    "Archives/Deep Work/Rule 1- Work Deeply.md",
+    "Archives/Deep Work/Rule 1 Work Deeply.md",
+    "Archives/Deep Work/Rule.md",
+    "Archives/Deep Work/Deep Work is Meaningful.md",
+    "Archives/Deep Work/Rule 1.md",
+    "Archives/Deep Work/Deep Work is Rare.md",
+    "Archives/Deep Work/Deep Work is Valuable.md",
+    "Projects/Version Control/Branch naming conventions.md",
+    "Projects/Version Control/Pull request Best Practices.md",
+    "Projects/Version Control/GIT commands.md",
+    "Archives/Deep Work",
     "Resources/Scrum/Scrum Flow.md",
     "Resources/Scrum/Scrum.md",
-    "Resources/Notes Taking/Stigmergy.md",
-    "Resources/Notes Taking/Active Ideation.md",
-    "Resources/Operating Systems/Operating System.md",
-    "Resources/Scrum/Sprint Retrospective.md",
-    "Resources/Scrum/Scrum Master.md",
-    "Resources/Scrum/Sprint Planning.md",
-    "Resources/Scrum/Scaled Scrum.md",
-    "Resources/Scrum/Daily Scrum.md",
-    "Resources/Scrum/Cone of Uncertainty.md",
+    "Archives/Building a Second Brain/Express -  Show Your Work.md",
+    "Resources/Scrum/Product Backlog.md",
     "Resources/Scrum/Agile.md",
-    "Archives/Building a Second Brain/The path of Self- Expression.md",
+    "Resources/Scrum/Increment.md",
+    "Resources/Scrum/Sprint Retrospective.md",
+    "Resources/Scrum/Sprint Review.md",
+    "Resources/Scrum/Sprint Planning.md",
+    "Resources/Scrum/Cone of Uncertainty.md",
+    "Resources/Scrum/The Sprint.md",
+    "Projects/Apache Spark",
     "Attachments/datasync between services.png",
     "Attachments/aws datasync with agent.png",
     "Attachments/storage gateway.png",
@@ -211,7 +213,6 @@
     "Projects/Golang Dev",
     "Projects/AWS SAA",
     "Resources/Books",
-    "Resources",
-    "Obsidian-Vault"
+    "Resources"
   ]
 }

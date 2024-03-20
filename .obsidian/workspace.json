@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bf80a3b2833846ea",
+        "id": "55c152ae12dcde83",
         "type": "tabs",
         "children": [
           {
-            "id": "3fd33fb377600f17",
+            "id": "cbe52250901ffff3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/System Design/CDN.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,12 +64,24 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c6927aea5ac98496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Scripting/Command Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 387.5
   },
   "right": {
     "id": "5ed6b474f7ef346b",
@@ -81,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content Delivery Network (CDN).md",
+                "file": "Projects/System Design/CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content Delivery Network (CDN).md",
+                "file": "Projects/System Design/CDN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Content Delivery Network (CDN).md"
+                "file": "Projects/System Design/CDN.md"
               }
             }
           },
@@ -144,9 +160,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "c84d63cc3afe1bab",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -166,40 +190,35 @@
   },
   "active": "3cb7a940485f6ac8",
   "lastOpenFiles": [
-    "Resources/Version Control/Pull request Best Practices.md",
-    "Content Delivery Network (CDN).md",
-    "Cloud Worshop/IAM & EC2.md",
-    "Projects/AWS SAA/EC2 Storage.md",
-    "Projects/AWS SAA/AWS EC2.md",
-    "Book Reading List.md",
+    "Projects/Computer Networks",
     "Projects/AWS SAA/IAM.md",
-    "Projects/Webapp",
-    "Projects/Webapp/CSS.md",
-    "Resources/Version Control/Commits Best Practices.md",
-    "Resources/Version Control/Branch naming conventions.md",
-    "Availability Pattern.md",
-    "Consistency and Availability.md",
-    "Consistency Pattern in Distributed Systems.md",
-    "Resources/Version Control/Useful Commands.md",
-    "Resources/Scrum/Scrum Master.md",
-    "Resources/Scrum/Sprint Retrospective.md",
-    "Resources/Scrum/Sprint Review.md",
-    "Resources/Scrum/Sprint Planning.md",
-    "Resources/Scrum/Product Backlog.md",
-    "Resources/Scrum/Scrum Flow.md",
-    "Resources/Scrum/Agile.md",
-    "Resources/Scrum/Increment.md",
-    "Resources/Scrum/Daily Scrum.md",
-    "Resources/Scrum/Scrum Team.md",
-    "Resources/Scrum/Scrum.md",
-    "Cloud Worshop/Cloud Basics.md",
-    "Cloud Worshop",
-    "Attachments/Pasted image 20240110213020.png",
-    "Projects/Frontend Dev/Javascript",
-    "Projects/Frontend Dev",
-    "Attachments/agile people principles.png",
-    "Archives/Lets talk money",
-    "Projects/Design Patterns",
+    "Projects/System Design/CDN.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Projects/Software Architecture/Software Architecture And Architect.md",
+    "Projects/System Design/Latency vs Throughput.md",
+    "Projects/Software Architecture",
+    "Projects/System Design/1 System Design.md",
+    "Projects/System Design/Performance vs Scalability.md",
+    "Projects/System Design",
+    "Projects/Scripting/Command Line.md",
+    "Projects/Scripting/Bash Scripting.md",
+    "Linux",
+    "AWS Learning Management.md",
+    "Projects Management.md",
+    "Book Reading List.md",
+    "2024-02-25.md",
+    "Projects/Version Control/Branch naming conventions.md",
+    "Projects/Version Control/Commits Best Practices.md",
+    "Archives/Deep Work/Rule 3- Quit Social Media.md",
+    "Archives/Deep Work/Rule 4- Drain the Shallows.md",
+    "Archives/Deep Work/Deep Work - Introduction.md",
+    "Archives/Deep Work/Rule 2- Embrace Boredom.md",
+    "Archives/Deep Work/Rule 1- Work Deeply.md",
+    "Archives/Deep Work/Rule 1 Work Deeply.md",
+    "Archives/Deep Work/Rule.md",
+    "Archives/Deep Work/Deep Work is Meaningful.md",
+    "Archives/Deep Work/Rule 1.md",
     "Archives/Deep Work",
     "Projects/Apache Spark",
     "Attachments/datasync between services.png",
@@ -211,6 +230,9 @@
     "Attachments/s3 file gateway.png",
     "Attachments/aws client side encryption.png",
     "Resources/Notes Taking",
-    "Resources/Algorithms"
+    "Resources/Algorithms",
+    "Archives/Building a Second Brain",
+    "Archives",
+    "Projects/Golang Dev"
   ]
 }

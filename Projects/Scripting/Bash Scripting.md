@@ -17,6 +17,11 @@ command [OPTIONS] arguments
 `pwd` - display present working directory
 
 `ls` - list content of current directory
+	`ls -a` list all files(including hidden files)
+	`ls -l` list all files with more details
+	`ls -R` list files recursively
+	`ls -r` sorts file list in reverse
+	`ls -t` sorts files on time of modification
 
 `echo` - prints string of text or value of a variable.
 
@@ -86,6 +91,7 @@ which bash
 	2. `ls`: List the contents of the current directory.
 	3. `mkdir`: Create a new directory.
 	4. `touch`: Create a new file.
+		also used to update the timestamp of a file
 	5. `rm`: Remove a file or directory.
 	6. `cp`: Copy a file or directory.
 	7. `mv`: Move or rename a file or directory.

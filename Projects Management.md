@@ -6,12 +6,10 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] Terraform Developer Associate Certification
 
 
 ## In progresss
 
-- [ ] AWS Developer Associate Certification @{2023-11-18}
 
 
 ## Completed

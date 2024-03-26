@@ -3,7 +3,7 @@ __Productivity__
 
 - [x] Atomic Habits - James Clear
 - [x] Building a Second Brain - Thiago Forte
-- [/] Deep Work - Cal Newport
+- [x] Deep Work - Cal Newport
 - [ ] Make Time - Jake Knapp
 
 
@@ -26,5 +26,5 @@ __Relationship__
 
 __Philosophy__
 
-- [ ] Meditations - Marcus Aerilius
+- [\] Meditations - Marcus Aerilius
 

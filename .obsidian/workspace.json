@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "11dfe048d2524fee",
+        "id": "bf80a3b2833846ea",
         "type": "tabs",
         "children": [
           {
-            "id": "c7731a516fb73bbe",
+            "id": "3fd33fb377600f17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Version Control/Branch naming conventions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "artifacts",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 336.5
   },
   "right": {
     "id": "5ed6b474f7ef346b",
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Version Control/Branch naming conventions.md",
+                "file": "Content Delivery Network (CDN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Version Control/Branch naming conventions.md",
+                "file": "Content Delivery Network (CDN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Version Control/Branch naming conventions.md"
+                "file": "Content Delivery Network (CDN).md"
               }
             }
           },
@@ -143,7 +139,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -152,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -166,35 +164,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7731a516fb73bbe",
+  "active": "3cb7a940485f6ac8",
   "lastOpenFiles": [
-    "Projects/Version Control/Commits Best Practices.md",
-    "Archives/Deep Work/Rule 3- Quit Social Media.md",
-    "Archives/Deep Work/Rule 4- Drain the Shallows.md",
-    "Archives/Deep Work/Deep Work - Introduction.md",
-    "Archives/Deep Work/Rule 2- Embrace Boredom.md",
-    "Archives/Deep Work/Rule 1- Work Deeply.md",
-    "Archives/Deep Work/Rule 1 Work Deeply.md",
-    "Archives/Deep Work/Rule.md",
-    "Archives/Deep Work/Deep Work is Meaningful.md",
-    "Archives/Deep Work/Rule 1.md",
-    "Archives/Deep Work/Deep Work is Rare.md",
-    "Archives/Deep Work/Deep Work is Valuable.md",
-    "Projects/Version Control/Branch naming conventions.md",
-    "Projects/Version Control/Pull request Best Practices.md",
-    "Projects/Version Control/GIT commands.md",
-    "Archives/Deep Work",
-    "Resources/Scrum/Scrum Flow.md",
-    "Resources/Scrum/Scrum.md",
-    "Archives/Building a Second Brain/Express -  Show Your Work.md",
-    "Resources/Scrum/Product Backlog.md",
-    "Resources/Scrum/Agile.md",
-    "Resources/Scrum/Increment.md",
+    "Resources/Version Control/Pull request Best Practices.md",
+    "Content Delivery Network (CDN).md",
+    "Cloud Worshop/IAM & EC2.md",
+    "Projects/AWS SAA/EC2 Storage.md",
+    "Projects/AWS SAA/AWS EC2.md",
+    "Book Reading List.md",
+    "Projects/AWS SAA/IAM.md",
+    "Projects/Webapp",
+    "Projects/Webapp/CSS.md",
+    "Resources/Version Control/Commits Best Practices.md",
+    "Resources/Version Control/Branch naming conventions.md",
+    "Availability Pattern.md",
+    "Consistency and Availability.md",
+    "Consistency Pattern in Distributed Systems.md",
+    "Resources/Version Control/Useful Commands.md",
+    "Resources/Scrum/Scrum Master.md",
     "Resources/Scrum/Sprint Retrospective.md",
     "Resources/Scrum/Sprint Review.md",
     "Resources/Scrum/Sprint Planning.md",
-    "Resources/Scrum/Cone of Uncertainty.md",
-    "Resources/Scrum/The Sprint.md",
+    "Resources/Scrum/Product Backlog.md",
+    "Resources/Scrum/Scrum Flow.md",
+    "Resources/Scrum/Agile.md",
+    "Resources/Scrum/Increment.md",
+    "Resources/Scrum/Daily Scrum.md",
+    "Resources/Scrum/Scrum Team.md",
+    "Resources/Scrum/Scrum.md",
+    "Cloud Worshop/Cloud Basics.md",
+    "Cloud Worshop",
+    "Attachments/Pasted image 20240110213020.png",
+    "Projects/Frontend Dev/Javascript",
+    "Projects/Frontend Dev",
+    "Attachments/agile people principles.png",
+    "Archives/Lets talk money",
+    "Projects/Design Patterns",
+    "Archives/Deep Work",
     "Projects/Apache Spark",
     "Attachments/datasync between services.png",
     "Attachments/aws datasync with agent.png",
@@ -204,15 +210,7 @@
     "Attachments/fsx file gateway.png",
     "Attachments/s3 file gateway.png",
     "Attachments/aws client side encryption.png",
-    "Attachments/aws sse-c.png",
-    "Attachments/aws sse-kms.png",
     "Resources/Notes Taking",
-    "Resources/Algorithms",
-    "Archives/Building a Second Brain",
-    "Archives",
-    "Projects/Golang Dev",
-    "Projects/AWS SAA",
-    "Resources/Books",
-    "Resources"
+    "Resources/Algorithms"
   ]
 }

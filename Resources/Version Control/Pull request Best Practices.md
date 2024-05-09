@@ -13,6 +13,9 @@ Select one of these if applicable:
 ## How has this been tested?
 
 Describe how this feature has been tested locally to ensure that not bug / regression / unexpected behavior was found. Make sure that changes are tested locally against the most up-to-date version of the code repository.
+
+## Test Config
+scraper event and what to test
 ```
 
 ## Reference

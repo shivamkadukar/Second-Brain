@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "55c152ae12dcde83",
+        "id": "6c4eda6f151109e0",
         "type": "tabs",
         "children": [
           {
-            "id": "cbe52250901ffff3",
+            "id": "738bc70396d7c083",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/System Design/CDN.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,24 +60,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "c6927aea5ac98496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Scripting/Command Line.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 255.5
   },
   "right": {
     "id": "5ed6b474f7ef346b",
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/System Design/CDN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/System Design/CDN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projects/System Design/CDN.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,17 +140,9 @@
                 "searchQuery": ""
               }
             }
-          },
-          {
-            "id": "c84d63cc3afe1bab",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -188,51 +160,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3cb7a940485f6ac8",
+  "active": "738bc70396d7c083",
   "lastOpenFiles": [
-    "Projects/Computer Networks",
-    "Projects/AWS SAA/IAM.md",
-    "Projects/System Design/CDN.md",
+    "Projects/System Design/Load Balancers and Reverse Proxy.md",
+    "Projects/System Design/Load Balancer.md",
+    "Consistency Pattern in Distributed Systems.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "Projects/Software Architecture/Software Architecture And Architect.md",
     "Projects/System Design/Latency vs Throughput.md",
-    "Projects/Software Architecture",
-    "Projects/System Design/1 System Design.md",
     "Projects/System Design/Performance vs Scalability.md",
+    "Projects/System Design/Content Delivery Network (CDN).md",
+    "Projects/System Design/Consistency Pattern in Distributed Systems.md",
+    "Projects/System Design/Consistency and Availability.md",
+    "Projects/System Design/Availability Pattern.md",
+    "Projects/System Design/CDN.md",
+    "Projects/System Design/1 System Design.md",
     "Projects/System Design",
+    "Projects/Software Architecture/Software Architecture And Architect.md",
+    "Projects/Software Architecture",
     "Projects/Scripting/Command Line.md",
-    "Projects/Scripting/Bash Scripting.md",
-    "Linux",
-    "AWS Learning Management.md",
-    "Projects Management.md",
-    "Book Reading List.md",
     "2024-02-25.md",
-    "Projects/Version Control/Branch naming conventions.md",
-    "Projects/Version Control/Commits Best Practices.md",
-    "Archives/Deep Work/Rule 3- Quit Social Media.md",
-    "Archives/Deep Work/Rule 4- Drain the Shallows.md",
-    "Archives/Deep Work/Deep Work - Introduction.md",
-    "Archives/Deep Work/Rule 2- Embrace Boredom.md",
-    "Archives/Deep Work/Rule 1- Work Deeply.md",
-    "Archives/Deep Work/Rule 1 Work Deeply.md",
-    "Archives/Deep Work/Rule.md",
-    "Archives/Deep Work/Deep Work is Meaningful.md",
-    "Archives/Deep Work/Rule 1.md",
-    "Archives/Deep Work",
-    "Projects/Apache Spark",
+    "Content Delivery Network (CDN).md",
+    "Projects/Docker/Docker - Introduction.md",
+    "Untitled.md",
+    "Projects/Docker/Containers.md",
+    "Resources/Version Control/Pull request Best Practices.md",
+    "Projects/Docker",
+    "Resources/Version Control/Branch naming conventions.md",
+    "Resources/Version Control/Commits Best Practices.md",
+    "Resources/Version Control/Version Control.md",
+    "Resources/Scrum/Scrum Team.md",
+    "Resources/Scrum/Sprint Retrospective.md",
+    "Resources/Scrum/Sprint Review.md",
+    "Quest Logs",
+    "Projects/ML",
+    "Attachments/sprint flow.png",
+    "Projects/Webapp",
+    "Cloud Worshop",
+    "Attachments/Pasted image 20240110213020.png",
+    "Projects/Frontend Dev/Javascript",
+    "Projects/Frontend Dev",
+    "Attachments/agile people principles.png",
+    "Archives/Lets talk money",
     "Attachments/datasync between services.png",
     "Attachments/aws datasync with agent.png",
     "Attachments/storage gateway.png",
     "Attachments/volume gateway.png",
     "Attachments/tape gateway.png",
     "Attachments/fsx file gateway.png",
-    "Attachments/s3 file gateway.png",
-    "Attachments/aws client side encryption.png",
-    "Resources/Notes Taking",
-    "Resources/Algorithms",
-    "Archives/Building a Second Brain",
-    "Archives",
-    "Projects/Golang Dev"
+    "Attachments/s3 file gateway.png"
   ]
 }

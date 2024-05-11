@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "66e0a1734f96d03b",
+        "id": "23dc1541de534243",
         "type": "tabs",
         "children": [
           {
-            "id": "063c2f8f46f163cc",
+            "id": "7773b9012e0807d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Docker/Docker Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56623d24eca7b453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Docker/Union File Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89f366701ea892cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Version Control/Pull request Best Practices.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "volum",
+                "query": "oral healt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,12 +60,24 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "c6927aea5ac98496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Scripting/Command Line.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 231.51103591918945
   },
   "right": {
     "id": "5ed6b474f7ef346b",
@@ -110,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Version Control/Pull request Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Version Control/Pull request Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Version Control/Pull request Best Practices.md"
+                "file": "Projects/Computer Networks/Networks Basics.md"
               }
             }
           },
@@ -173,9 +154,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "c84d63cc3afe1bab",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -193,49 +182,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89f366701ea892cf",
+  "active": "3cb7a940485f6ac8",
   "lastOpenFiles": [
-    "Projects/Docker/Data Persistence in Docker.md",
-    "Projects/Docker/Containers.md",
-    "Projects/Docker/Control Groups.md",
+    "Projects/Django/Django - Introduction.md",
+    "Projects/Django",
+    "Projects/Computer Networks/OSI Model.md",
+    "Projects/Computer Networks/Networks Basics.md",
+    "Projects/Computer Networks",
+    "Personal Hygiene/Oral Health.md",
+    "Personal Hygiene",
+    "Attachments/Screenshot from 2024-05-10 07-03-24.png",
+    "Attachments/Screenshot from 2024-05-04 09-01-24.png",
+    "Attachments/Pasted image 20240510073454.png",
+    "Quest Logs/2024-04-04.md",
+    "Quest Logs/2024-04-02.md",
+    "Quest Logs",
+    "Projects/System Design/Load Balancers and Reverse Proxy.md",
+    "Projects/System Design/Load Balancer.md",
+    "Projects/Docker/Union File Systems.md",
+    "Projects/Docker/Namespaces.md",
+    "Projects/Docker/Docker Engine.md",
     "Projects/Docker/Docker Desktop - Architecture.md",
     "Projects/Docker/Docker Basics.md",
-    "Projects/Docker/1 Docker - Introduction.md",
+    "Projects/Docker/Data Persistence in Docker.md",
+    "Projects/Docker/Control Groups.md",
+    "Projects/Docker/Containers.md",
     "Projects/Docker/Containerization Core.md",
-    "Projects/Docker/Docker Engine.md",
-    "Projects/Docker/Namespaces.md",
-    "Projects/Docker/Union File Systems.md",
-    "Attachments/Pasted image 20240509165303.png",
-    "Resources/Version Control/Pull request Best Practices.md",
-    "Resources/Version Control/Version Control.md",
-    "Untitled 1.md",
-    "Projects/Frontend Dev/Javascript cheat sheet.md",
-    "Projects/Design Patterns/Design patterns.md",
-    "Archives/Lets talk money/1 Let's Talk Money.md",
-    "Archives/Lets talk money/Building your protection.md",
-    "Archives/Lets talk money/Don't Stash That Cash.md",
-    "Archives/Lets talk money/Emergencies need a fund.md",
-    "Archives/Lets talk money/The Money Order.md",
-    "Attachments/Pasted image 20240509144121.png",
-    "Projects/System Design/Load Balancer.md",
-    "Projects/System Design/Load Balancers and Reverse Proxy.md",
-    "Consistency Pattern in Distributed Systems.md",
-    "Projects/System Design/Latency vs Throughput.md",
-    "Projects/System Design/Performance vs Scalability.md",
-    "Projects/System Design/Content Delivery Network (CDN).md",
-    "Projects/System Design",
-    "Projects/Software Architecture",
+    "Projects/Docker/1 Docker - Introduction.md",
     "Projects/Docker",
-    "Quest Logs",
-    "Projects/ML",
-    "Attachments/sprint flow.png",
-    "Projects/Webapp",
-    "Cloud Worshop",
-    "Attachments/Pasted image 20240110213020.png",
-    "Projects/Frontend Dev/Javascript",
-    "Projects/Frontend Dev",
-    "Attachments/agile people principles.png",
-    "Archives/Lets talk money",
+    "Projects/AWS/Route 53.md",
+    "Projects/AWS/Mesc.md",
+    "Projects/AWS/IAM.md",
+    "Projects/AWS/Elastic Network Interface (ENI).md",
+    "Projects/AWS/EC2 Storage.md",
+    "Projects/AWS/EC2 Hibernate.md",
+    "Projects/AWS/Customization at the Edge.md",
+    "Projects/AWS/CloudFront, Global Accelerator.md",
+    "Projects/AWS",
+    "Attachments/Pasted image 20240509165303.png",
+    "Attachments/Pasted image 20240509144121.png",
+    "test.html",
+    "Projects/Software Architecture",
+    "Projects/System Design",
+    "Linux",
     "Attachments/datasync between services.png",
     "Attachments/aws datasync with agent.png",
     "Attachments/storage gateway.png",

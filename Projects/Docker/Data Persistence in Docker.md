@@ -1,6 +1,7 @@
 - Docker containers are isolated pieces of code, separated from the host operating system.  
 - Docker provides various data persistence methods to retain data across container lifecycles.
-### Docker Volumes
+![[Pasted image 20240521112151.png]]
+### [[Docker Volumes]]
 
 Docker volumes are the preferred way to persist data generated and utilized by a Docker container. A volume is a directory on the host machine Docker uses to store files and directories that can outlive the container’s lifecycle. Docker volumes can be shared among containers, and they offer various benefits like easy backups and data migration.
 

@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Marked in the browser</title>
+</head>
+<body>
+  <div id="content"></div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    document.getElementById('content').innerHTML =
+      marked.parse(`[[The Money Order]]
+      [[Don't Stash That Cash]]
+      [[Emergencies need a fund]]
+      [[Building your protection]]
+      
+      - For those forty years and below in secure jobs, you are fine with six months of living expenses in an FD, but as the age increases and as the riskiness of the job goes up, ramp up the fund to reach two year for older cohorts in jobs that are not that secure.
+      - The fact is there is no one safe haven for your money. Each investment comes with some risk and you have to decide which one you are able to take.
+      - Asset allocation is not an option, and even high-risk appetitie people need to be less risk happy. And those with very little risk appetite, need to go for a more balanced portfolio.
+      - Ideally your total fixed obligation-to-income-ratio(FOIR) should be 30 percent or less. This means that all your EMIs put together must not be more than 30 percent of your take home money.
+      
+      Don't fall into routine work. Always strive for a deeper understanding of what you do and then try and stretch beyond what the ask is.
+      
+      You need to plan for a career 10 years ahead of today. What would you want to be doing 10 years from today and what are you going to do about it today. Have a second and third career cooking on the slow fire even as you raise the flame to max on your current work.`
+      );
+  </script>
+</body>
+</html>

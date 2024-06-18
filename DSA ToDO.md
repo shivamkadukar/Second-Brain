@@ -11,22 +11,22 @@
   - [x] Solve related practice problems
 
 ### Day 2: Arrays
-- [ ] **Hour 1: Theory**
-  - [ ] DSA Arrays
+- [x] **Hour 1: Theory**
+  - [x] DSA Arrays
 - [ ] **Hour 2: Practical**
   - [ ] Implement array operations
   - [ ] Solve problems involving array manipulations
 
 ### Day 3: Bubble Sort
-- [ ] **Hour 1: Theory**
-  - [ ] DSA Bubble Sort
+- [x] **Hour 1: Theory**
+  - [x] DSA Bubble Sort
 - [ ] **Hour 2: Practical**
   - [ ] Implement Bubble Sort
   - [ ] Solve sorting problems using Bubble Sort
 
 ### Day 4: Selection Sort
-- [ ] **Hour 1: Theory**
-  - [ ] DSA Selection Sort
+- [x] **Hour 1: Theory**
+  - [x] DSA Selection Sort
 - [ ] **Hour 2: Practical**
   - [ ] Implement Selection Sort
   - [ ] Solve sorting problems using Selection Sort
@@ -46,8 +46,8 @@
   - [ ] Solve sorting problems using Quick Sort
 
 ### Day 7: Counting Sort
-- [ ] **Hour 1: Theory**
-  - [ ] DSA Counting Sort
+- [x] **Hour 1: Theory**
+  - [x] DSA Counting Sort
 - [ ] **Hour 2: Practical**
   - [ ] Implement Counting Sort
   - [ ] Solve sorting problems using Counting Sort
@@ -83,16 +83,16 @@
   - [ ] Solve search problems using Binary Search
 
 ### Day 12: Linked Lists Introduction
-- [ ] **Hour 1: Theory**
-  - [ ] DSA Linked Lists
+- [x] **Hour 1: Theory**
+  - [x] DSA Linked Lists
 - [ ] **Hour 2: Practical**
   - [ ] Implement a basic linked list
   - [ ] Solve basic problems using linked lists
 
 ### Day 13: Linked Lists in Memory & Types
-- [ ] **Hour 1: Theory**
-  - [ ] DSA Linked Lists in Memory
-  - [ ] DSA Linked Lists Types
+- [x] **Hour 1: Theory**
+  - [x] DSA Linked Lists in Memory
+  - [x] DSA Linked Lists Types
 - [ ] **Hour 2: Practical**
   - [ ] Implement different types of linked lists (singly, doubly, circular)
   - [ ] Solve related problems
